@@ -1,0 +1,15 @@
+body {
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #ffebcd;
+}
+
+#gallery {
+  background-color: #ffebcd;
+}
+
+section {
+  padding-top: 5rem;
+}
