@@ -41,7 +41,7 @@
 
     <!-- Jumbotron -->
     <section class="jumbotron text-center">
-      <img src="img/dims.JPG" alt="Dimas Riski Firdaus" width="200" class="rounded-circle img-thumbnail" />
+      <img src="https://storage.googleapis.com/dimas-riski.appspot.com/img/dims.JPG" alt="Dimas Riski Firdaus" width="200" class="rounded-circle img-thumbnail" />
       <h1 class="display-4">Dimas Riski Firdaus</h1>
       <p class="lead">21 Years old IT Enthusiast | Support | Dev</p>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
@@ -92,31 +92,31 @@
         <div class="row justify-content-center">
           <div class="col-md-4 mb-3">
             <div class="card">
-              <img src="img/gallery/1.jpg" class="card-img-top" alt="Gallery 1" />
+              <img src="https://storage.googleapis.com/dimas-riski.appspot.com/img/gallery/1.jpg" class="card-img-top" alt="Gallery 1" />
               <div class="card-body"></div>
             </div>
           </div>
           <div class="col-md-4 mb-3">
             <div class="card">
-              <img src="img/gallery/2.jpg" class="card-img-top" alt="Gallery 2" />
+              <img src="https://storage.googleapis.com/dimas-riski.appspot.com/img/gallery/2.jpg" class="card-img-top" alt="Gallery 2" />
               <div class="card-body"></div>
             </div>
           </div>
           <div class="col-md-4 mb-3">
             <div class="card">
-              <img src="img/gallery/3.jpg" class="card-img-top" alt="Gallery 3" />
+              <img src="https://storage.googleapis.com/dimas-riski.appspot.com/img/gallery/3.jpg" class="card-img-top" alt="Gallery 3" />
               <div class="card-body"></div>
             </div>
           </div>
           <div class="col-md-4 mb-3">
             <div class="card">
-              <img src="img/gallery/4.jpg" class="card-img-top" alt="Gallery 4" />
+              <img src="https://storage.googleapis.com/dimas-riski.appspot.com/img/gallery/4.jpg" class="card-img-top" alt="Gallery 4" />
               <div class="card-body"></div>
             </div>
           </div>
           <div class="col-md-4 mb-3">
             <div class="card">
-              <img src="img/gallery/5.jpg" class="card-img-top" alt="Gallery 5" />
+              <img src="https://storage.googleapis.com/dimas-riski.appspot.com/img/gallery/5.jpg" class="card-img-top" alt="Gallery 5" />
               <div class="card-body"></div>
             </div>
           </div>
@@ -142,17 +142,17 @@
           <div class="row justify-content-evenly">
             <div class="col-md-3 justify-content-evenly">
               <a href="https://www.instagram.com/dim_risfir/?hl=id">
-                <img src="img/cib-instagram.svg" alt="instagram" />
+                <img src="https://storage.googleapis.com/dimas-riski.appspot.com/img/cib-instagram.svg" alt="instagram" />
               </a>
             </div>
             <div class="col-md-3 justify-content-evenly">
               <a href="https://twitter.com/dimasyangbiasa?s=20&t=RMJv90YQeN3VS-ZESMi1ZA">
-                <img src="img/cib-twitter.svg" alt="twitter" />
+                <img src="https://storage.googleapis.com/dimas-riski.appspot.com/img/cib-twitter.svg" alt="twitter" />
               </a>
             </div>
             <div class="col-md-3 justify-content-evenly">
               <a href="mailto:dimasriskifirdaus@gmail.com">
-                <img src="img/cib-mail-ru.svg" alt="email" />
+                <img src="https://storage.googleapis.com/dimas-riski.appspot.com/img/cib-mail-ru.svg" alt="email" />
               </a>
             </div>
           </div>
